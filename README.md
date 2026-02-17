@@ -114,5 +114,5 @@ Ce projet a été réalisé en collaboration par :
 - **Halima Achabbak** - [@achabbakhalima-ai](https://github.com/achabbakhalima-ai)
 - **Fatima Boumehaout** - [@Fatimaboumehaout](https://github.com/Fatimaboumehaout)
 
----
-*Projet réalisé dans le cadre de l'Atelier 2 de Programmation Orientée Objet.*
+
+
